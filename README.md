@@ -142,7 +142,3 @@ pip install pandas numpy matplotlib seaborn
 This project successfully demonstrates how raw business data can be converted into meaningful visual stories using Python. The visualizations help identify trends, profitability patterns, and business opportunities effectively.
 
 ---
-
-## Author
-
-CodeAlpha Data Analytics Intern
